@@ -190,3 +190,4 @@ config/config-me.yaml
 .dockerignore
 .modelscope/
 neo4j/
+.local/
